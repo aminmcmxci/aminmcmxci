@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Astronomy, Astrophotography and Music
 - 🌱 I’m currently learning HTML,CSS,JS
 - 💞️ I’m looking to collaborate on Front-End Projects
-- 📫 How to reach me Telegram and Instagram: Telegram: @vaguevoid - Instagram: amin_ashrafiii
+- 📫 How to reach me Telegram and Instagram: Telegram: @amin4rf - Instagram: _aminashrafi
 
 <!---
 aminmcmxci/aminmcmxci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
