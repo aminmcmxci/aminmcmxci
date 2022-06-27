@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aminmcmxci
 - 👀 I’m interested in Coding, Astronomy, Astrophotography and Music
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android Projects
+- 🌱 I’m currently learning HTML,CSS,JS
+- 💞️ I’m looking to collaborate on Front-End Projects
 - 📫 How to reach me Telegram and Instagram: Telegram: @vaguevoid - Instagram: amin_ashrafiii
 
 <!---
