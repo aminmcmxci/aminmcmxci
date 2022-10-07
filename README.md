@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminmcmxci
 - 👀 I’m interested in Coding, Astronomy, Astrophotography and Music
-- 🌱 I’m currently learning HTML,CSS,JS
+- 🌱 I’m currently learning HTML,CSS,JS and React-JS
 - 💞️ I’m looking to collaborate on Front-End Projects
 - 📫 How to reach me Telegram and Instagram: Telegram: @amin4rf - Instagram: _aminashrafi
 
